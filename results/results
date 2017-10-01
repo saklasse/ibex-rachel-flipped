@@ -1,0 +1,880 @@
+#
+# Results on Thursday September 14 2017 18:54:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,1,0,practice,NULL,WORD 1,NULL,NULL,3004
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,2,0,practice,NULL,WORD 2,la,NULL,1184
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 3,NULL,NULL,3005
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,LAST PRACTICE WORD,NULL,NULL,3002
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c2,NULL,agua,la,1,737
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c1,NULL,avión,la,0,397
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c2,NULL,botella,el,0,314
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c1,NULL,ascensor,NULL,NULL,3005
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c2,NULL,bicicleta,NULL,NULL,3004
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,armario,el,1,1898
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c2,NULL,bufanda,la,1,523
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c1,NULL,aeropuerto,el,1,419
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c2,NULL,almohada,el,0,379
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,c1,NULL,aceite,la,0,300
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c2,NULL,boca,el,0,318
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,amor,la,0,335
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c2,NULL,boda,el,0,315
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c1,NULL,año,la,0,311
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c2,NULL,actividad,la,1,163
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,ajedrez,la,0,227
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c2,NULL,aspiradora,la,1,140
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,c1,NULL,abrigo,la,0,210
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c2,NULL,bandera,la,1,125
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,ajo,la,0,219
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c2,NULL,amistad,la,1,218
+1505415269,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,almuerzo,la,0,199
+#
+# Results on Thursday September 14 2017 18:58:01 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 33
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,1,0,practice,NULL,WORD 1,la,NULL,1320
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,2,0,practice,NULL,WORD 2,la,NULL,214
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 3,la,NULL,331
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,LAST PRACTICE WORD,la,NULL,163
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,almuerzo,la,0,131
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c2,NULL,agua,la,1,115
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c1,NULL,ascensor,la,0,131
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c2,NULL,botella,la,1,96
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,amor,la,0,163
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c2,NULL,bandera,la,1,131
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c1,NULL,año,la,0,115
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c2,NULL,bufanda,la,1,53
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,ajedrez,la,0,147
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c2,NULL,boda,la,1,130
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,armario,la,0,130
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c2,NULL,actividad,la,1,82
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,c1,NULL,aceite,la,0,166
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c2,NULL,amistad,la,1,107
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c1,NULL,aeropuerto,la,0,106
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c2,NULL,almohada,la,1,130
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c1,NULL,avión,la,0,166
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c2,NULL,boca,la,1,90
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,c1,NULL,abrigo,la,0,275
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c2,NULL,bicicleta,la,1,30
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,ajo,la,0,177
+1505415482,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c2,NULL,aspiradora,la,1,195
+#
+# Results on Thursday September 14 2017 19:01:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,1,0,practice,NULL,WORD 1,la,NULL,1080
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,2,0,practice,NULL,WORD 2,la,NULL,373
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 3,la,NULL,403
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,LAST PRACTICE WORD,la,NULL,359
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,almuerzo,la,0,392
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c2,NULL,bandera,la,1,462
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c1,NULL,ascensor,la,0,938
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c2,NULL,actividad,la,1,1188
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,armario,la,0,849
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c2,NULL,boca,la,1,1089
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,ajedrez,la,0,1122
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c2,NULL,aspiradora,la,1,1114
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,amor,la,0,1179
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c2,NULL,almohada,la,1,1052
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c1,NULL,aeropuerto,la,0,1116
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c2,NULL,botella,la,1,1100
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c1,NULL,avión,la,0,953
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c2,NULL,bicicleta,la,1,866
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,c1,NULL,aceite,la,0,774
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c2,NULL,boda,la,1,691
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c1,NULL,año,la,0,667
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c2,NULL,amistad,la,1,747
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,ajo,la,0,707
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c2,NULL,bufanda,la,1,705
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,c1,NULL,abrigo,la,0,631
+1505415681,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c2,NULL,agua,la,1,755
+#
+# Results on Thursday September 14 2017 19:02:33 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 35
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,1,0,practice,NULL,WORD 1,la,NULL,749
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,2,0,practice,NULL,WORD 2,la,NULL,319
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 3,la,NULL,322
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,LAST PRACTICE WORD,la,NULL,390
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,ajo,la,0,379
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c2,NULL,bicicleta,la,1,314
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,c1,NULL,aceite,la,0,360
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c2,NULL,boda,la,1,347
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c1,NULL,ascensor,la,0,306
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c2,NULL,amistad,la,1,315
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,c1,NULL,abrigo,la,0,321
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c2,NULL,agua,la,1,301
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,ajedrez,la,0,281
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c2,NULL,actividad,la,1,291
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c1,NULL,aeropuerto,la,0,229
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c2,NULL,boca,la,1,259
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,almuerzo,la,0,235
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c2,NULL,aspiradora,la,1,269
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c1,NULL,año,la,0,203
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c2,NULL,almohada,la,1,171
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c1,NULL,avión,la,0,211
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c2,NULL,botella,la,1,219
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,armario,la,0,219
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c2,NULL,bufanda,la,1,163
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,amor,la,0,136
+1505415754,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c2,NULL,bandera,la,1,181
+#
+# Results on Thursday September 14 2017 19:33:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 36
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 1,la,NULL,1113
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 2,la,NULL,292
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 3,el,NULL,402
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,practice,NULL,WORD 4,la,NULL,515
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c2,NULL,boca,la,1,2055
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c1,NULL,año,el,1,954
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c2,NULL,aspiradora,la,1,548
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c1,NULL,ascensor,el,1,541
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c2,NULL,boda,la,1,274
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,amor,la,0,236
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,27,0,c2,NULL,botella,el,0,230
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,ajo,la,0,66
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c2,NULL,agua,el,0,302
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c1,NULL,armario,la,0,149
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c2,NULL,almohada,el,0,154
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,aceite,el,1,71
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c2,NULL,bicicleta,el,0,35
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c1,NULL,almuerzo,el,1,147
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c2,NULL,actividad,el,0,19
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c1,NULL,avión,la,0,188
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c2,NULL,bandera,el,0,127
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c1,NULL,abrigo,la,0,304
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c2,NULL,amistad,el,0,280
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,aeropuerto,la,0,558
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,28,0,c2,NULL,bufanda,el,0,628
+1505417602,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,ajedrez,la,0,517
+#
+# Results on Thursday September 14 2017 19:34:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 37
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 1,la,NULL,393
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 2,la,NULL,322
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 3,la,NULL,324
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,practice,NULL,WORD 4,la,NULL,387
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c2,NULL,aspiradora,la,1,668
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,ajo,la,0,445
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c2,NULL,agua,la,1,435
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,aceite,la,0,423
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c2,NULL,bicicleta,la,1,386
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c1,NULL,armario,la,0,346
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,28,0,c2,NULL,bufanda,el,0,463
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,amor,la,0,307
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c2,NULL,almohada,la,1,767
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c1,NULL,avión,la,0,907
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c2,NULL,amistad,el,0,914
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c1,NULL,año,la,0,818
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c2,NULL,actividad,el,0,234
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c1,NULL,abrigo,la,0,188
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,27,0,c2,NULL,botella,el,0,199
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c1,NULL,ascensor,la,0,71
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c2,NULL,boda,el,0,69
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,aeropuerto,la,0,298
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c2,NULL,boca,el,0,261
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c1,NULL,almuerzo,la,0,219
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c2,NULL,bandera,el,0,306
+1505417687,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,ajedrez,el,1,324
+#
+# Results on Thursday September 14 2017 19:40:04 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 38
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 1,NULL,NULL,3005
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 2,NULL,NULL,3005
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 3,NULL,NULL,3001
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,practice,NULL,WORD 4,la,NULL,1110
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c1,NULL,armario,NULL,NULL,3005
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,28,0,c2,NULL,bufanda,NULL,NULL,3001
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c1,NULL,avión,NULL,NULL,3002
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c2,NULL,aspiradora,el,0,435
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c1,NULL,almuerzo,la,0,500
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c2,NULL,almohada,la,1,381
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c1,NULL,año,el,1,530
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c2,NULL,bicicleta,la,1,1750
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c1,NULL,abrigo,NULL,NULL,3001
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c2,NULL,amistad,la,1,570
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,ajedrez,el,1,312
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c2,NULL,boda,la,1,484
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,aeropuerto,el,1,427
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,27,0,c2,NULL,botella,el,0,450
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c1,NULL,ascensor,la,0,495
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c2,NULL,actividad,el,0,467
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,ajo,la,0,340
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c2,NULL,boca,el,0,1307
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,amor,la,0,346
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c2,NULL,agua,el,0,401
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,aceite,la,0,282
+1505418004,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c2,NULL,bandera,el,0,1015
+#
+# Results on Friday September 15 2017 11:42:47 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 39
+#
+#
+# Results on Friday September 15 2017 11:42:56 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 40
+#
+#
+# Results on Friday September 22 2017 08:18:42 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 41
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506068323,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 1,la,NULL,672
+1506068323,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 2,la,NULL,307
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,This is a test sentence
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,NULL,NULL,NULL,3004
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,Final
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,NULL,NULL,NULL,3005
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,Final sentence of C1
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,NULL,NULL,NULL,2680
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,Keep on testing
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,NULL,1,NULL,2226
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,<b>This is a bold test sentence</b>
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,NULL,2,NULL,775
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,First sentence of C2
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,NULL,3,NULL,396
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,Third test sentence
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,NULL,3,NULL,1751
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,This should be shuffled in
+1506068323,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,NULL,3,NULL,1025
+#
+# Results on Friday September 22 2017 08:19:47 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506068388,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 1,la,NULL,601
+1506068388,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 2,la,NULL,471
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,First sentence of C2
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,NULL,NULL,NULL,3001
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,Final sentence of C1
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,NULL,3,NULL,1357
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,This should be shuffled in
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,NULL,4,NULL,2383
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,<b>This is a bold test sentence</b>
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,NULL,NULL,NULL,3000
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,Final
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,NULL,NULL,NULL,3005
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,This is a test sentence
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,NULL,NULL,NULL,3005
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,Keep on testing
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,NULL,NULL,NULL,3001
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,Third test sentence
+1506068388,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,NULL,NULL,NULL,3000
+#
+# Results on Friday September 22 2017 08:20:58 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 43
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506068459,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 1,la,NULL,569
+1506068459,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 2,la,NULL,352
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,This should be shuffled in
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,NULL,5,NULL,8247
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,This is a test sentence
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,NULL,2,NULL,1486
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,First sentence of C2
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,NULL,3,NULL,1203
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,Final sentence of C1
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,NULL,6,NULL,1453
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,Final
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,NULL,7,NULL,1207
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,<b>This is a bold test sentence</b>
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,NULL,1,NULL,1870
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,Keep on testing
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,NULL,2,NULL,1782
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,Third test sentence
+1506068459,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,NULL,4,NULL,1396
+#
+# Results on Friday September 22 2017 08:22:42 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 44
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506068562,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 1,la,NULL,689
+1506068562,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 2,el,NULL,1067
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,<b>This is a bold test sentence</b>
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,NULL,4,NULL,5473
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,Keep on testing
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,NULL,5,NULL,593
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,Final sentence of C1
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,NULL,2,NULL,477
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,First sentence of C2
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,NULL,1,NULL,360
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,This is a test sentence
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,NULL,7,NULL,793
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,This should be shuffled in
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,NULL,5,NULL,2865
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,Third test sentence
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,NULL,6,NULL,705
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,Final
+1506068562,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,NULL,7,NULL,276
+#
+# Results on Friday September 22 2017 08:26:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 45
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506068795,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 1,la,NULL,1213
+1506068795,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 2,la,NULL,315
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,Keep on testing
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,NULL,7,NULL,8894
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,<b>This is a bold test sentence</b>
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,NULL,7,NULL,670
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,Final
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,13,0,c2,NULL,NULL,7,NULL,870
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,Third test sentence
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,NULL,7,NULL,679
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,This should be shuffled in
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,NULL,7,NULL,551
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,This is a test sentence
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,NULL,7,NULL,502
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,First sentence of C2
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,NULL,7,NULL,439
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,Final sentence of C1
+1506068795,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c1,NULL,NULL,7,NULL,403
+#
+# Results on Friday September 22 2017 08:35:06 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 46
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,27,0,practice,NULL,WORD 4,la,NULL,702
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,28,0,practice,NULL,WORD 3,la,NULL,381
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,33,0,practice,NULL,WORD 1,la,NULL,429
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,34,0,practice,NULL,WORD 2,la,NULL,440
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,aeropuerto,la,0,54
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c3,NULL,gofre,la,0,409
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c5,NULL,prestámo,la,0,288
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,c2,NULL,actividad,la,1,303
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,aceite,la,0,265
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c4,NULL,estrella,la,1,58
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c6,NULL,película,la,1,343
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,37,0,c3,NULL,helado,la,0,69
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c5,NULL,postre,la,0,40
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,32,0,c2,NULL,amistad,la,1,78
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,0,0,c1,NULL,almuerzo,la,0,5
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c4,NULL,falda,la,1,519
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c6,NULL,pérdida,la,1,231
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c3,NULL,hombro,la,0,433
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c5,NULL,polvo,la,0,184
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,38,0,c2,NULL,aspiradora,la,1,280
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,29,0,c1,NULL,ajo,la,0,96
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,c4,NULL,explicación,la,1,125
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c6,NULL,pierna,la,1,73
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,35,0,c3,NULL,horno,la,0,277
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,c5,NULL,puente,la,0,338
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c2,NULL,agua,la,1,364
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,31,0,c1,NULL,ajedrez,la,0,488
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c4,NULL,fila,la,1,822
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,1,0,c6,NULL,playa,la,1,602
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c3,NULL,frigorífico,NULL,NULL,3002
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c5,NULL,pie,la,0,1291
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,c2,NULL,almohada,la,1,575
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c1,NULL,abrigo,la,0,597
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c4,NULL,experiencia,la,1,1484
+1506069306,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c6,NULL,piña,la,1,830
+#
+# Results on Friday September 22 2017 08:43:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 47
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 1,el,NULL,1009
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 2,la,NULL,670
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,practice,NULL,WORD 3,la,NULL,650
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,practice,NULL,WORD 4,la,NULL,690
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,aeropuerto,la,0,374
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,32,0,c5,NULL,prestámo,la,0,352
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,abrigo,la,0,434
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c3,NULL,frigorífico,el,1,323
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,28,0,c4,NULL,fila,la,1,273
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,34,0,c6,NULL,película,el,0,204
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c2,NULL,agua,la,1,332
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,29,0,c5,NULL,pie,el,1,409
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c1,NULL,almuerzo,la,0,425
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c3,NULL,horno,el,1,393
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c4,NULL,estrella,la,1,272
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,38,0,c6,NULL,playa,el,0,387
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c2,NULL,aspiradora,la,1,304
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,33,0,c5,NULL,puente,el,1,405
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,aceite,la,0,380
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c3,NULL,helado,el,1,390
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,27,0,c4,NULL,falda,la,1,212
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,35,0,c6,NULL,pérdida,el,0,331
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c2,NULL,amistad,la,1,371
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,30,0,c5,NULL,polvo,el,1,345
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,ajedrez,el,1,257
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c3,NULL,hombro,la,0,239
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c4,NULL,experiencia,la,1,178
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,37,0,c6,NULL,piña,el,0,240
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c2,NULL,almohada,la,1,281
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,31,0,c5,NULL,postre,el,1,155
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c1,NULL,ajo,la,0,276
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c3,NULL,gofre,el,1,100
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c4,NULL,explicación,la,1,369
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,36,0,c6,NULL,pierna,la,1,416
+1506069800,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c2,NULL,actividad,la,1,472
+#
+# Results on Friday September 22 2017 08:47:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 48
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506070032,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 1,la,NULL,688
+1506070032,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 2,la,NULL,139
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,Keep on testing
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,NULL,7,NULL,3138
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,Final sentence of C1
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,NULL,2,NULL,699
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,Final
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,NULL,1,NULL,348
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,<b>This is a bold test sentence</b>
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,NULL,3,NULL,355
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,This should be shuffled in
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,NULL,2,NULL,353
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,5,0,c1,NULL,This is a test sentence
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,5,0,c1,NULL,NULL,1,NULL,440
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c2,NULL,First sentence of C2
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c2,NULL,NULL,2,NULL,279
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,Third test sentence
+1506070032,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,NULL,3,NULL,276
+#
+# Results on Friday September 22 2017 11:59:56 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 49
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,2,0,practice,NULL,WORD 1,la,NULL,2342
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 2,NULL,NULL,3193
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 3,NULL,NULL,3728
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,5,0,practice,NULL,WORD 4,NULL,NULL,5751
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,9,0,c1,NULL,ajedrez,NULL,NULL,3368
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,10,0,c1,NULL,ajo,NULL,NULL,3000
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,29,0,c5,NULL,postre,NULL,NULL,3821
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,33,0,c6,NULL,pérdida,NULL,NULL,4101
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,22,0,c4,NULL,estrella,NULL,NULL,5510
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,19,0,c3,NULL,helado,NULL,NULL,4928
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,16,0,c2,NULL,aspiradora,NULL,NULL,5694
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,6,0,c1,NULL,abrigo,NULL,NULL,4955
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,28,0,c5,NULL,polvo,NULL,NULL,4998
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,36,0,c6,NULL,playa,NULL,NULL,3543
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,26,0,c4,NULL,fila,NULL,NULL,5875
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,17,0,c3,NULL,frigorífico,NULL,NULL,5644
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,15,0,c2,NULL,amistad,NULL,NULL,4884
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,7,0,c1,NULL,aceite,NULL,NULL,4363
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,30,0,c5,NULL,prestámo,NULL,NULL,4904
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,35,0,c6,NULL,piña,NULL,NULL,4977
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,24,0,c4,NULL,explicación,NULL,NULL,5028
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,18,0,c3,NULL,gofre,NULL,NULL,5326
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,14,0,c2,NULL,almohada,NULL,NULL,4829
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,8,0,c1,NULL,aeropuerto,NULL,NULL,5207
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,27,0,c5,NULL,pie,NULL,NULL,4398
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,32,0,c6,NULL,película,NULL,NULL,5589
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,25,0,c4,NULL,falda,NULL,NULL,4866
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,20,0,c3,NULL,hombro,NULL,NULL,4953
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,13,0,c2,NULL,agua,NULL,NULL,3000
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,11,0,c1,NULL,almuerzo,NULL,NULL,3006
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,31,0,c5,NULL,puente,NULL,NULL,4133
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,34,0,c6,NULL,pierna,NULL,NULL,5513
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,23,0,c4,NULL,experiencia,NULL,NULL,5811
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,21,0,c3,NULL,horno,NULL,NULL,5260
+1506081596,5487a9ff409594ef7943941fd51dbb4f,Question,12,0,c2,NULL,actividad,NULL,NULL,4117
+#
+# Results on Sunday October 01 2017 12:50:18 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+# Design number was non-random = 50
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1506862218,5487a9ff409594ef7943941fd51dbb4f,Question,3,0,practice,NULL,WORD 1,la,NULL,2041
+1506862218,5487a9ff409594ef7943941fd51dbb4f,Question,4,0,practice,NULL,WORD 2,la,NULL,283
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,Third test sentence
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,7,0,c1,NULL,NULL,4,NULL,6232
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c2,NULL,First sentence of C2
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,9,0,c2,NULL,NULL,3,NULL,1354
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,Final sentence of C1
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,8,0,c1,NULL,NULL,2,NULL,630
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,This should be shuffled in
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,10,0,c2,NULL,NULL,2,NULL,1513
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,<b>This is a bold test sentence</b>
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,6,0,c1,NULL,NULL,3,NULL,904
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,Keep on testing
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,11,0,c2,NULL,NULL,3,NULL,709
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,5,0,c1,NULL,This is a test sentence
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,5,0,c1,NULL,NULL,4,NULL,483
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,Final
+1506862218,5487a9ff409594ef7943941fd51dbb4f,AcceptabilityJudgment,12,0,c2,NULL,NULL,1,NULL,771
