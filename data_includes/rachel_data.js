@@ -50,12 +50,19 @@ var items = [
     ["sep", "Separator", { }],
     ["sep", "Separator", {normalMessage: "+"}],
 
+    // ["intro", "Form", {
+    //     html: { include: "example_intro.html" },
+    //     validators: {
+    //         age: function (s) { if (s.match(/^\d+$/)) return true; else return "Bad value for \u2018age\u2019"; }
+    //     }
+    // } ],
     ["intro", "Form", {
-        html: { include: "example_intro.html" },
-        validators: {
-            age: function (s) { if (s.match(/^\d+$/)) return true; else return "Bad value for \u2018age\u2019"; }
-        }
-    } ],
+      html: { include: "ConsentFormRevised.html"}
+    }],
+    ["intro", "Form", {
+      html: { include: "HTMLformRevised.html"}
+    }],
+
 
     ["pracMsg", "Message", {html: {include: "rachel.html"}, transfer: "keypress"}],
     ["realMsg", "Message", {html: {include: "rachel2.html"}, transfer: "keypress"}],
