@@ -2,8 +2,8 @@ var theShuffle = rshuffle("c1", "c2", "c3", "c4", "c5", "c6")
 var theShuffle2 = rshuffle("c1-2", "c2-2", "c3-2", "c4-2", "c5-2", "c6-2")
 
 
-var shuffleSequence1 = seq(sepWith("sep", seq("practice", "realMsg", theShuffle, "break", theShuffle2)));
-var shuffleSequence2 = seq(sepWith("sep", seq("practice", "realMsg", theShuffle2, "break", theShuffle)));
+var shuffleSequence1 = seq(sepWith("sep", seq("intro", "practice", "realMsg", theShuffle, "break", theShuffle2)));
+var shuffleSequence2 = seq(sepWith("sep", seq("intro", "practice", "realMsg", theShuffle2, "break", theShuffle)));
 
 function chooseShuffle(){
    i = Math.floor(Math.random() * 2);
