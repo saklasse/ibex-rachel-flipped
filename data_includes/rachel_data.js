@@ -2,8 +2,8 @@ var theShuffle = rshuffle("c1", "c2", "c3", "c4", "c5", "c6")
 var theShuffle2 = rshuffle("c1-2", "c2-2", "c3-2", "c4-2", "c5-2", "c6-2")
 
 
-var shuffleSequence1 = seq("intro", sepWith("sep", seq("pracMsg", "sep", rshuffle("practice"), "realMsg", "sep", theShuffle, "break", "sep", theShuffle2, "lastPage")));
-var shuffleSequence2 = seq("intro", sepWith("sep", seq("pracMsg", "sep", rshuffle("practice"), "realMsg", "sep", theShuffle2, "break", "sep", theShuffle, "lastPage")));
+var shuffleSequence1 = seq("intro", sepWith("sep", seq("pracMsg", "sep", rshuffle("practice"), "realMsg", "sep", theShuffle, "break", "sep", theShuffle2)));
+var shuffleSequence2 = seq("intro", sepWith("sep", seq("pracMsg", "sep", rshuffle("practice"), "realMsg", "sep", theShuffle2, "break", "sep", theShuffle)));
 
 function chooseShuffle(){
    i = Math.floor(Math.random() * 2);
@@ -93,10 +93,6 @@ var items = [
     ["pracMsg", "Message", {html: {include: "instr1.html"}}],
     ["realMsg", "Message", {html: {include: "instr2.html"}}],
     ["break", "Message", {html: {include: "break.html"}}],
-
-    ["lastPage", "Form", {html: {include: "lastPage.html"}}],
-
-
 
     ["practice", "Question", {hasCorrect: 0, q: "otoño"}],
     ["practice", "Question", {hasCorrect: 0, q: "postre"}],
