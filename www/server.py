@@ -1745,6 +1745,7 @@ if CFG['SERVER_MODE'] != "cgi":
         STATIC_FILES = [
             'experiment.html',
             'overview.html',
+            'handplacement.jpg',
             'json.js',
             'conf.js',
             'shuffle.js',

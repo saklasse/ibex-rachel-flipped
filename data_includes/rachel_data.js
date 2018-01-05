@@ -2,8 +2,8 @@ var theShuffle = rshuffle("c1", "c2", "c3", "c4", "c5", "c6")
 var theShuffle2 = rshuffle("c1-2", "c2-2", "c3-2", "c4-2", "c5-2", "c6-2")
 
 
-var shuffleSequence1 = seq("intro", sepWith("sep", seq("pracMsg", "sep", rshuffle("practice"), "realMsg", "sep", theShuffle, "break", "sep", theShuffle2)));
-var shuffleSequence2 = seq("intro", sepWith("sep", seq("pracMsg", "sep", rshuffle("practice"), "realMsg", "sep", theShuffle2, "break", "sep", theShuffle)));
+var shuffleSequence1 = seq("intro", sepWith("sep", seq("pracMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", rshuffle("practice"), "realMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle, "break", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle2)));
+var shuffleSequence2 = seq("intro", sepWith("sep", seq("pracMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", rshuffle("practice"), "realMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle2, "break", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle)));
 
 function chooseShuffle(){
    i = Math.floor(Math.random() * 2);
@@ -65,6 +65,11 @@ var items = [
     // otherwise, results are automatically sent at the end of the experiment.
     //
     //["sr", "__SendResults__", { }],
+
+    ["sepStart1", "Separator", {normalMessage: "Empieza en...", transfer: 1000 }],
+    ["sepStart2", "Separator", {normalMessage: "3...", transfer: 1000 }],
+    ["sepStart3", "Separator", {normalMessage: "2...", transfer: 1000 }],
+    ["sepStart4", "Separator", {normalMessage: "1...", transfer: 1000 }],
 
     ["sep", "Separator", { }],
     ["sep", "Separator", {normalMessage: "+"}],
