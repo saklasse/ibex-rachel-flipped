@@ -9,26 +9,26 @@ Por favor, rellene el cuestionario antes de continuar.
 
 <table class="tw-table">
 <tr>
-  <td><b>Sexo:</b></td><td><input name="sex" type="radio" value="male" class="obligatory" id="csexmale" /><label for="csexmale">hombre </label>
+  <td><b>Sexo:</b></td><td><input name="sex" type="radio" value="male" class="optional" id="csexmale" /><label for="csexmale">hombre </label>
                    <input name="sex" type="radio" value="female" id="csexfemale"/><label for="csexfemale"> mujer</label>
 </tr>
 <tr>
 <td colspan="2"><label class="error" for="sex"></label></td>
 </tr>
 <tr>
-  <td><b>Edad:</b></td><td><input name="age" type="text" size="30" class="obligatory" /></td>
+  <td><b>Edad:</b></td><td><input name="age" type="text" size="30" class="obligatory" /><font color="red">*</font></td>
 </tr>
 <tr>
 <td colspan="2"><label class="error" for="age"></label></td>
 </tr>
 <tr>
-  <td><b>Lengua materna:</b></td><td><input name="L1" type="text" size="30" class="obligatory" /></td>
+  <td><b>Lengua materna:</b></td><td><input name="L1" type="text" size="30" class="obligatory" /><font color="red">*</font></td>
 </tr>
 <tr>
 <td colspan="2"><label class="error" for="L1"></label></td>
 </tr>
 <tr>
-  <td><b>Dialecto de noruego que habla (ciudad):</b></td><td><input name="birthplace" type="text" size="30" class="obligatory" /></td>
+  <td><b>Dialecto de noruego que habla (ciudad):</b></td><td><input name="birthplace" type="text" size="30" class="obligatory" /><font color="red">*</font></td>
 </tr>
 <tr>
 <td colspan="2"><label class="error" for="birthplace"></label></td>
@@ -41,7 +41,7 @@ Por favor, rellene el cuestionario antes de continuar.
   <td><b>los primeros cinco años de su vida:</b></td>
 </tr>
 <tr>
-  <td></td><td><input name="first51" type="text" size="30" class="obligatory" /></td>
+  <td></td><td><input name="first51" type="text" size="30" class="obligatory" /><font color="red">*</font></td>
 </tr>
 <tr>
 <td colspan="2"><label class="error" for="first51"></label></td>
@@ -66,7 +66,7 @@ Por favor, rellene el cuestionario antes de continuar.
   <td>Lengua 1:</td>
 
   <td>
-    <input type="text" name="Lengua1" value="" class="obligatory" />
+    <input type="text" name="Lengua1" value="" class="obligatory" /><font color="red">*</font>
   </td>
 
   <td>
@@ -76,15 +76,19 @@ Por favor, rellene el cuestionario antes de continuar.
     <input type="radio" id="three" name="scale1" value="3" class="obligatory"/>
     <input type="radio" id="four" class="" name="scale1" value="4" class="obligatory"/>
     <input type="radio" id="five" class="" name="scale1" value="5" class="obligatory"/>
-    <label class="" for="five">Nativo</label>
+    <label class="" for="five">Nativo</label><font color="red">*</font>
   </td>
 
+</tr>
+<tr>
+<td colspan="2"><label class="error" for="Lengua1"></label></td>
+<td colspan="2"><label class="error" for="scale1"></label></td>
 </tr>
 <tr>
   <td>Lengua 2:</td>
 
   <td>
-    <input type="text" name="Lengua2" value="" class="obligatory" />
+    <input type="text" name="Lengua2" value="" class="obligatory" /><font color="red">*</font>
   </td>
 
   <td>
@@ -94,9 +98,13 @@ Por favor, rellene el cuestionario antes de continuar.
     <input type="radio" id="three" name="scale2" value="3" class="obligatory"/>
     <input type="radio" id="four" class="" name="scale2" value="4" class="obligatory"/>
     <input type="radio" id="five" class="" name="scale2" value="5" class="obligatory"/>
-    <label class="" for="five">Nativo</label>
+    <label class="" for="five">Nativo</label><font color="red">*</font>
   </td>
 
+</tr>
+<tr>
+<td colspan="2"><label class="error" for="Lengua2"></label></td>
+<td colspan="2"><label class="error" for="scale2"></label></td>
 </tr>
 <tr>
   <td>Lengua 3:</td>
@@ -151,10 +159,6 @@ Por favor, rellene el cuestionario antes de continuar.
     <label class="" for="five">Nativo</label>
   </td>
 
-</tr>
-
-<tr>
-  <td><b>OPCIONAL - dirección de correo electrónico (para participar en el sorteo de tarjeta regalo):</b></td><td><input name="email" type="text" size="20" class="optional" /></td>
 </tr>
 
 </table>

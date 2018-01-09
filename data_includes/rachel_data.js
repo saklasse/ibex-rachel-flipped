@@ -2,8 +2,8 @@ var theShuffle = rshuffle("c1", "c2", "c3", "c4", "c5", "c6")
 var theShuffle2 = rshuffle("c1-2", "c2-2", "c3-2", "c4-2", "c5-2", "c6-2")
 
 
-var shuffleSequence1 = seq("intro", sepWith("sep", seq("pracMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", rshuffle("practice"), "realMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle, "break", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle2)));
-var shuffleSequence2 = seq("intro", sepWith("sep", seq("pracMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", rshuffle("practice"), "realMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle2, "break", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle)));
+var shuffleSequence1 = seq("intro", sepWith("sep", seq("pracMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", rshuffle("practice"), "realMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle, "break", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle2, "sr", "lastPage")));
+var shuffleSequence2 = seq("intro", sepWith("sep", seq("pracMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", rshuffle("practice"), "realMsg", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle2, "break", "sepStart1", "sepStart2", "sepStart3", "sepStart4", theShuffle, "sr", "lastPage")));
 
 function chooseShuffle(){
    i = Math.floor(Math.random() * 2);
@@ -64,7 +64,7 @@ var items = [
     // the shuffle sequence, you must set the 'manualSendResults' configuration variable to 'true', since
     // otherwise, results are automatically sent at the end of the experiment.
     //
-    //["sr", "__SendResults__", { }],
+    ["sr", "__SendResults__", { }],
 
     ["sepStart1", "Separator", {normalMessage: "Empieza en...", transfer: 1000 }],
     ["sepStart2", "Separator", {normalMessage: "3...", transfer: 1000 }],
@@ -98,6 +98,7 @@ var items = [
     ["pracMsg", "Message", {html: {include: "instr1.html"}}],
     ["realMsg", "Message", {html: {include: "instr2.html"}}],
     ["break", "Message", {html: {include: "break.html"}}],
+    ["lastPage", "Message", {html: {include: "lastPage.html"}}],
 
     ["practice", "Question", {hasCorrect: 0, q: "otoño"}],
     ["practice", "Question", {hasCorrect: 0, q: "postre"}],
