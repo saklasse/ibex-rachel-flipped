@@ -19,13 +19,13 @@ jqueryWidget: {
         this.saveReactionTime = dget(this.options, "saveReactionTime", false);
         this.obligatoryErrorGenerator =
             dget(this.options, "obligatoryErrorGenerator",
-                 function (field) { return "Es necesario contestar a esta pregunta"; });
+                 function (field) { return "Es necesario contestar esta pregunta."; });
         this.obligatoryCheckboxErrorGenerator =
             dget(this.options, "obligatoryCheckboxErrorGenerator",
-                 function (field) { return "Es necesario aceptar participar en el estudio para continuar."; });
+                 function (field) { return "Para continuar, por favor, seleccione la casilla de aceptación de participación."; });
         this.obligatoryRadioErrorGenerator =
             dget(this.options, "obligatoryRadioErrorGenerator",
-                 function (field) { return "Es necesario seleccionar una opción."; });
+                 function (field) { return "Es necesario seleccionar una opción para cada contexto."; });
 
         var t = this;
 
